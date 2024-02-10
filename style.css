@@ -1,0 +1,33 @@
+/* FONTS */
+
+@font-face {
+    font-family: 'Tektur';
+    src: url(Font/Tektur/static/Tektur-Regular.ttf) format(truetypefont);
+
+    font-family: 'poppins';
+    src: url(Font/Poppins/Poppins-Regular.ttf) format(truetypefont);
+
+    font-family: 'Shadow';
+    src: url(Font/Shadows_Into_Light/ShadowsIntoLight-Regular.ttf) format(truetypefont);
+}
+
+/* MY STYLE */
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #e2edff;
+    font-family: 'Poppins',cursive;
+}
+
+.projects {
+    background-color: #e2edff;
+    font-family: 'Shadows', cursive;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+.navbar {
+    font-family: 'Tektur';
+}
